@@ -1,0 +1,10 @@
+    #main {
+        height: 100vh;
+        background-image: url(images/Illustration-header.png);
+        background-size: 40%;
+        background-position: 100%;
+        background-repeat: no-repeat;
+    }    
+    #main p {
+        width: 50%;
+    }
