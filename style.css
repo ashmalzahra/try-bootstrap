@@ -8,3 +8,10 @@
     #main p {
         width: 50%;
     }
+
+    .title{
+        width: 60%;
+        height: 2px;
+        margin: auto;
+        background: #000;
+    }
