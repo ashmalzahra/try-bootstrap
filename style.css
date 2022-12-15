@@ -1,0 +1,79 @@
+    #main {
+        height: 100vh;
+        background-image: url(images/Illustration-header.png);
+        background-size: 40%;
+        background-position: 100%;
+        background-repeat: no-repeat;
+        background-color: black;
+        padding: 5rem 0 1rem 1rem;
+    }    
+    #main p {
+        width: 50%;
+    }
+
+    .nav-ico{
+        padding-bottom: 0 !important;
+    }
+
+    .title{
+        width: 60%;
+        height: 2px;
+        margin: auto;
+        background: #000;
+    }
+
+    .about{
+        background-color: black;
+    }
+
+   .skills{
+    background-color: black;
+   }
+
+   .tri {
+    width: 18px;
+    height: 18px;
+    background: #f55800;
+    transform: rotate(-45deg);
+  }
+  
+  .squ {
+    width: 18px;
+    height: 18px;
+    background: #f55800;
+  }
+  
+  .circle {
+    width: 18px;
+    height: 18px;
+    background: #f55800;
+    border-radius: 50%;
+  }
+
+  .last{
+    width: 40%;
+  }
+
+  .get-in{
+    background-color: #f55800;
+    color: white;
+    border: none;
+    width: 25%;
+  }
+
+  .btn{
+    background-color: #f55800;
+    color: white;
+  }
+
+  .input{
+    width: 50%;
+  }
+
+  .full-cont{
+    width: 100%;
+  }
+
+  .inp1{
+    width: 100%;
+  }
